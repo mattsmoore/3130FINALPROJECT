@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "565145784928",
+    "firebase_url": "https://dal-polls.firebaseio.com",
+    "project_id": "dal-polls",
+    "storage_bucket": "dal-polls.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565145784928:android:fa8855f10e12d97f58a905",
+        "android_client_info": {
+          "package_name": "com.swg7.dalpolls"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565145784928-k1so3ph8ri5emk864vsjq1tn5ddcifag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeiNejVcK-neqzhmm9-YHVE4ECrzmbUz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565145784928-k1so3ph8ri5emk864vsjq1tn5ddcifag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
